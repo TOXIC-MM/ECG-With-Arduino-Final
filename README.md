@@ -23,6 +23,7 @@ Part 3: Test your Project
 1. Do a head-to-toe assessment on your patient for a better result. You can use this checklist that I tested on my friend: [Checklist.xlsx](https://github.com/TOXIC-MM/ECG-With-ESP-Final/blob/main/Checklist_v2.xlsx)
 
 2. Connect electrodes to the chest and measure the data with [Better Serial Plotter App](https://github.com/nathandunk/BetterSerialPlotter/releases)
+Denoiser.py was used in making these graphs.
 The First Graph is recorded when the patient is relaxed
 The Second Graph was recorded when the patient was stressed
 ![No Stress](https://github.com/TOXIC-MM/ECG-With-ESP-Final/blob/main/no%20pain.png?raw=true)
